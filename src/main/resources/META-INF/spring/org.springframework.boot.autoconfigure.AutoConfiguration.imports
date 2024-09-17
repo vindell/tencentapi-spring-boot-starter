@@ -1,0 +1,4 @@
+com.tencentcloud.spring.boot.TencentLiveAutoConfiguration
+com.tencentcloud.spring.boot.TencentSmsAutoConfiguration
+com.tencentcloud.spring.boot.TencentTimAutoConfiguration
+com.tencentcloud.spring.boot.TencentTrtcAutoConfiguration
